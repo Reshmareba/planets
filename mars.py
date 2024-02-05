@@ -2,3 +2,5 @@
 
 # Read in data
 read_csv('mars_elements.csv')
+#get x values
+x=data[0]
